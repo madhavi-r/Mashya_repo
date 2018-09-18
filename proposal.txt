@@ -1,0 +1,22 @@
+Our project aim is to identify trends in longitudinal MRI data of clinically non-demented and demented patients in the age group of 60-96. We hope to find indicators of patients at risk of being diagnosed with dementia, with focus on the time between subsequent visits.
+
+
+
+ individuals at risk of dementia, with a focus on 
+AD, incapacitating failure of memory
+common symps: confusion, poor judgment, language disturbance, agitation, withdrawal, and hallucinations. 
+- dementia, alzheimers prediction
+- if data permits, early-onset
+
+- Conversion of mild cognitive impairment to dementia
+
+
+steps:
+- clean and format data sets
+- describe data exploration and cleanup process
+- illustrate final data analysis
+- matplotlib 6-8 visualizations of data
+- save .pngs to distribute
+- use API if applicable
+- list 'questions'
+- write-up to summarize major findings, heading for each question asked, short descriptions of what was found and relevant plots
