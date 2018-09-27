@@ -1,2 +1,2 @@
 # Mashya_repo
-Repository to track our progress - project1
+MRI Data Analysis of Patients Diagnosed with Dementia
