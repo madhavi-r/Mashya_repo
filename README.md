@@ -1,7 +1,7 @@
 # Mashya_repo
 
 ## MRI Data Analysis of Patients Diagnosed with Dementia
-Written by Madhu Raghunath, Yamini Sasidhar, and Shishir Tewari
+Written by Madhavi Raghunath, Yamini Sasidhar, and Shishir Tewari
 
 ### Notes:
 * Please refer to **team7_MRI.ppt** for our presentation.
